@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "availablaity": true,
+            "photoUrl": "https://www.shutterstock.com/image-photo/sandwich-bread-tomato-lettuce-yellow-260nw-370837082.jpg",
+            "price": "120",
+            "restaurentId": "12",
+            "restaurentName": "Cafe Cofee Day"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://media.istockphoto.com/id/1397193477/photo/club-sandwich-made-with-bacon-ham-turkey-cheese-lettuce-and-tomato.jpg?s=612x612&w=0&k=20&c=fjNyxTEA0L88bqENs8_SKMnfAOyWlNPGxLIxz9nsSss=",
+            "price": "60",
+            "restaurentId": "23",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://st4.depositphotos.com/2252541/21530/i/450/depositphotos_215303682-stock-photo-delicious-ham-cheese-sandwich-lettuce.jpg",
+            "price": "80",
+            "restaurentId": "143",
+            "restaurentName": "cheezy hub"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://b.rgbimg.com/users/c/co/coolhewitt23/600/oq8v9ec.jpg",
+            "price": "120",
+            "restaurentId": "25",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://img.freepik.com/free-photo/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate_176474-3049.jpg",
+            "price": "200",
+            "restaurentId": "33",
+            "restaurentName": "Kit Kat"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://media.istockphoto.com/id/619637254/photo/two-fresh-submarine-sandwiches.jpg?s=612x612&w=0&k=20&c=5WtuqMq6eYFognGqc7wkGUspHxcKNWr-rV2rkAegM7g=",
+            "price": "180",
+            "restaurentId": "6",
+            "restaurentName": "The Spice Factory"
+        }
+    ],
+    "message": "here are some cake shops only for you",
+    "result": true
+}

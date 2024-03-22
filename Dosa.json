@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "availablaity": true,
+            "photoUrl": "https://www.shutterstock.com/image-photo/paper-masala-dosa-south-indian-600nw-1008144772.jpg",
+            "price": "120",
+            "restaurentId": "152",
+            "restaurentName": "Indian Masala House"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://img.freepik.com/premium-photo/crispy-dosa-little-millet-dosa-black-plate-served-with-sambar-chutney-dosa_191567-1267.jpg",
+            "price": "160",
+            "restaurentId": "623",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://t3.ftcdn.net/jpg/01/86/33/72/360_F_186337209_9rbcMLu3wGCDNaEoK1jO0aNzb0pv7Xs7.jpg",
+            "price": "80",
+            "restaurentId": "1433",
+            "restaurentName": "cheezy hub"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://www.shutterstock.com/image-photo/plain-dosa-south-indian-traditional-260nw-1867962370.jpg",
+            "price": "120",
+            "restaurentId": "25",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://media.gettyimages.com/id/1124318165/photo/south-indian-meal.jpg?s=612x612&w=gi&k=20&c=RihMurYfvI68cWj2agvFTrjW8UjvyGlgfnsLcDeUc-s=",
+            "price": "200",
+            "restaurentId": "33",
+            "restaurentName": "Kit Kat"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://media.istockphoto.com/id/1024558380/photo/group-of-south-indian-food-like-masala-dosa-uttapam-idli-idly-wada-vada-sambar-appam-semolina.webp?b=1&s=170667a&w=0&k=20&c=wvD2fX-GkT1JaOwmMl8JMaKJlCklpaU6F9vXmKRFvFY=",
+            "price": "180",
+            "restaurentId": "6",
+            "restaurentName": "The Spice Factory"
+        }
+    ],
+    "message": "here are some cake shops only for you",
+    "result": true
+}

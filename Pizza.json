@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "availablaity": true,
+            "photoUrl": "https://s1.1zoom.me/prev/500/499725.jpg",
+            "price": "500",
+            "restaurentId": "6",
+            "restaurentName": "The Classic Palate"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://t3.ftcdn.net/jpg/01/33/61/72/360_F_133617244_dWdivRXwoLVzowl1kn3iFP9JGcuNd8n6.jpg",
+            "price": "700",
+            "restaurentId": "99",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://thumbs.dreamstime.com/b/pizza-27972212.jpg",
+            "price": "400",
+            "restaurentId": "11",
+            "restaurentName": "cheezy hub"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://myfoodstory.com/wp-content/uploads/2023/01/air-fryer-pizza-square-1.jpg",
+            "price": "550",
+            "restaurentId": "22",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://img.freepik.com/premium-photo/organic-pizza-with-vegetables-cheese-generative-ai_538159-8501.jpg",
+            "price": "720",
+            "restaurentId": "33",
+            "restaurentName": "cheezy hub"
+        }
+    ],
+    "message": "here are some cake shops only for you",
+    "result": true
+}

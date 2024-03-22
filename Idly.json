@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "availablaity": true,
+            "photoUrl": "https://t3.ftcdn.net/jpg/03/62/02/26/360_F_362022640_fZ6UM0JycJlFDdBiR1pYlNddKfdGvYwR.jpg",
+            "price": "120",
+            "restaurentId": "1",
+            "restaurentName": "Indian Masala House"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://thumbs.dreamstime.com/b/idly-sambar-served-iddli-traditional-breakfast-south-indian-households-its-very-popular-savory-dish-south-indian-41417890.jpg",
+            "price": "120",
+            "restaurentId": "2",
+            "restaurentName": "The Spice Factory"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://madhurasrecipe.com/wp-content/uploads/2023/10/Instant-Idli-Featured-Image.jpg",
+            "price": "120",
+            "restaurentId": "3",
+            "restaurentName": "Zaika"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://i0.wp.com/cookingfromheart.com/wp-content/uploads/2021/02/Andhra-Style-Idly.jpg?fit=684%2C1024&ssl=1",
+            "price": "120",
+            "restaurentId": "4",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://thumbs.dreamstime.com/z/idly-chutney-sambar-traditional-ethnic-south-indian-breakfast-idli-rice-cake-served-coconut-plate-lined-32459703.jpg",
+            "price": "120",
+            "restaurentId": "5",
+            "restaurentName": "Ahmedabadi"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://img.freepik.com/premium-photo/idly-sambar-idli-with-sambhar-green-red-chutney-popular-south-indian-breakfast_466689-29513.jpg",
+            "price": "120",
+            "restaurentId": "6",
+            "restaurentName": "The Classic Palate"
+        }
+    ],
+    "message": "here are some results for you",
+    "result": true
+}
