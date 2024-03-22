@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "availablaity": true,
+            "photoUrl": "https://www.thecakeroomsleicester.co.uk/wp-content/uploads/2023/05/The-Cake-Rooms-630-%C3%97-630px-630-%C3%97-600px-11-1.png",
+            "price": "700",
+            "restaurentId": "1",
+            "restaurentName": "Seriously Sweet Cakes"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Halloween_cake_with_a_jack-o%27-lantern.jpg/600px-Halloween_cake_with_a_jack-o%27-lantern.jpg",
+            "price": "1200",
+            "restaurentId": "2",
+            "restaurentName": "Krissy's Cake Creations"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/600px-Pound_layer_cake.jpg",
+            "price": "900",
+            "restaurentId": "3",
+            "restaurentName": "Butter Cupcakes"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Q167545_and_Q2013_on_cake.jpg/600px-Q167545_and_Q2013_on_cake.jpg",
+            "price": "120",
+            "restaurentId": "4",
+            "restaurentName": "Vintage Elegance Bistro"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://i0.wp.com/creativecakes.ie/wp-content/uploads/2023/01/Black-Birthday-Cake-with-Gold-Drip-No.N020pppo.jpg?fit=600%2C900&ssl=1",
+            "price": "2500",
+            "restaurentId": "5",
+            "restaurentName": "Cheesecake & Chocolate"
+        },
+        {
+            "availablaity": true,
+            "photoUrl": "https://img.freepik.com/free-photo/cake_74190-2515.jpg",
+            "price": "500",
+            "restaurentId": "6",
+            "restaurentName": "The Classic Palate"
+        }
+    ],
+    "message": "here are some cake shops only for you",
+    "result": true
+}
