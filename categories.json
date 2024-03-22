@@ -1,0 +1,37 @@
+[
+    {
+        "availability": true,
+        "photoUrl": "https://cdn.shopify.com/s/files/1/0362/1653/articles/Birthday_Cake_Square_5_1400x.progressive.jpg?v=1505903378",
+        "price": "",
+        "id": "01",
+        "shopName": "Cake"
+    },
+    {
+        "availability": true,
+        "photoUrl": "https://www.indianpolitics.co.in/wp-content/uploads/2021/02/dosa_c.jpg",
+        "price": "",
+        "id": "02",
+        "shopName": "Dosa"
+    },
+    {
+        "availability": true,
+        "photoUrl": "https://st1.latestly.com/wp-content/uploads/2020/03/idli.jpg",
+        "price": "",
+        "id": "03",
+        "shopName": "Idly"
+    },
+    {
+        "availability": true,
+        "photoUrl": "https://wallpaperaccess.com/full/2237015.jpg",
+        "price": "",
+        "id": "04",
+        "shopName": "Pizza"
+    },
+    {
+        "availability": true,
+        "photoUrl": "https://wallpaperaccess.com/full/1727371.jpg",
+        "price": "",
+        "id": "05",
+        "shopName": "Sandwich"
+    }
+]
